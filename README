@@ -1,0 +1,9 @@
+Tool for listing files with resolution of at least 1080p.
+
+Usage python3 main.py <directory with video files to check>
+
+List of files is written to standard output in the format:
+
+Sequential number|file name|file size in bytes
+
+Pipe is used as separator
