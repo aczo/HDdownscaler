@@ -6,4 +6,4 @@ List of files is written to standard output in the format:
 
 Sequential number|file name|file size in bytes
 
-Pipe is used as separator
+Pipe "|" is used as separator

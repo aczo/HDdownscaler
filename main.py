@@ -1,4 +1,4 @@
-# Downscales files in 4K and 1080p to 720p
+# List files in 4K and 1080p for potential downscaling to 720p
 import os, argparse, pathlib
 
 os.environ["OPENCV_LOG_LEVEL"]="SILENT"
